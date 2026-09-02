@@ -6,7 +6,14 @@
 //
 
 import SwiftUI
-
+/*
+ MVVM Architecture
+ 
+ Model - data point
+ View - UI
+ ViewModel - manages Model for view
+ 
+ */
 struct ContentView: View {
     var body: some View {
         VStack {
