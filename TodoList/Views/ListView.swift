@@ -23,8 +23,9 @@ struct ListView: View {
             .onMove(perform: listViewModel.moveItem)
         }
         .listStyle(PlainListStyle())
-        .navigationTitle("Todo List")
+        .navigationTitle("Todo List ✓")
         .toolbar {
+            
             ToolbarItem(placement: .navigationBarLeading) {
                 EditButton()
             }
