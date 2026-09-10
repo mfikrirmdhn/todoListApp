@@ -10,27 +10,27 @@ Project ini dibuat sebagai bagian dari proses pembelajaran pengembangan aplikasi
 
 ### Splash Screen
 
-![Splash Screen](screenshots/splashopening.png)
+<img src="screenshots/splashopening.png" alt="Splash Screen" width="250">
 
 ### Empty State
 
-![Empty State](screenshots/emptystate.png)
+<img src="screenshots/emptystate.png" alt="Splash Screen" width="250">
 
 ### Todo List
 
-![Todo List](screenshots/list.png)
+<img src="screenshots/list.png" alt="Splash Screen" width="250">
 
 ### Add Todo
 
-![Add Todo](screenshots/additem.png)
+<img src="screenshots/additem.png" alt="Splash Screen" width="250">
 
 ### Completed Todo
 
-![Completed Todo](screenshots/completed.png)
+<img src="screenshots/completed.png" alt="Splash Screen" width="250">
 
 ### Delete Todo
 
-![Delete Todo](screenshots/delete.png)
+<img src="screenshots/delete.png" alt="Splash Screen" width="250">
 
 ---
 
